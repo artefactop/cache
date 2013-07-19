@@ -61,7 +61,7 @@ ok
 
 ### Otp application
 
-Configure cache at reltool and you don't have to start it manually, has its own supervisor  
+Configure cache at reltool and you don't have to start it manually, has its own supervisor. You have to do all calls without cache Name.
 
 ## exports ##
 
