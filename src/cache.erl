@@ -4,18 +4,18 @@
 -export([
     start_link/0,
     start_link/1,
-    start_link/2, 
-    i/0, 
-    i/1, 
-    put/2, 
-    put/3, 
+    start_link/2,
+    i/0,
+    i/1,
+    put/2,
+    put/3,
     put_ttl/3,
     put_ttl/4,
-    get/1, 
-    get/2, 
-    evict/0, 
-    evict/1, 
-    stop/0, 
+    get/1,
+    get/2,
+    evict/0,
+    evict/1,
+    stop/0,
     stop/1
 ]).
 
