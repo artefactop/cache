@@ -94,7 +94,7 @@ Insert element at cache with default TTL
 
 ```erlang
 put_ttl(Key, Value, TTL) -> ok.
-put_ttl(Name, Key, Value) -> ok.
+put_ttl(Name, Key, Value, TTL) -> ok.
 
   Name = atom()
   Key = term()
@@ -108,7 +108,7 @@ Insert element at cache with  TTL
 
 ```erlang
 get(Key) -> {ok,Value} | none.
-put(Name, Key) -> {ok,Value} | none.
+get(Name, Key) -> {ok,Value} | none.
 
   Name = atom()
   Key = term()
