@@ -1,6 +1,8 @@
 cache
 -----
 
+[![Build Status](https://api.travis-ci.org/artefactop/cache.png)](https://travis-ci.org/artefactop/cache)
+
 In memory simple cache using ETS tables
 
 ## index ##
