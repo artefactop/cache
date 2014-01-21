@@ -121,3 +121,6 @@ Get element from cache
 
 ### `evict/0,1`
 ### `stop/0,1`
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/artefactop/cache/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
